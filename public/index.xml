@@ -1,19 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>My awesome static site</title>
+    <link>https://example.org/</link>
+    <description>Recent content on My awesome static site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Jan 2021 12:48:43 -0500</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Jan 2021 09:36:12 -0500</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
-      <pubDate>Tue, 12 Jan 2021 12:48:43 -0500</pubDate>
+      <title>Another Post</title>
+      <link>https://example.org/post/another-post/</link>
+      <pubDate>Wed, 13 Jan 2021 09:36:12 -0500</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
-      <description></description>
+      <guid>https://example.org/post/another-post/</guid>
+      <description>Another fantastic post on the blog. Want to read more about me?</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://example.org/about/</link>
+      <pubDate>Wed, 13 Jan 2021 09:34:54 -0500</pubDate>
+      
+      <guid>https://example.org/about/</guid>
+      <description>I&amp;rsquo;m a blogger and I love hugo.
+More about me Some other stuff.</description>
+    </item>
+    
+    <item>
+      <title>Hello World!</title>
+      <link>https://example.org/post/hello-world/</link>
+      <pubDate>Wed, 13 Jan 2021 09:15:49 -0500</pubDate>
+      
+      <guid>https://example.org/post/hello-world/</guid>
+      <description>Welcome to my awesome blog!
+There&amp;rsquo;s not much here yet, but stay tuned.</description>
     </item>
     
   </channel>
