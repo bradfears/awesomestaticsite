@@ -14,8 +14,8 @@ theme = "hugo-minimalist-theme"
     site_description = "The awesome blog of Brad Fears"
     location = "Earth"
     # Link custom assets relative to /static
-    avatar = "img/profile-image.png"
-    header_background = "img/desk.jpg"
+    avatar = "img/buildings.jpg"
+    header_background = "img/Oil-Painting-Wallpaper-6.jpg"
     header_title = "Customizable header title"
     copyright = "Powered by [Hugo](http://gohugo.io)."
     custom_css = []
